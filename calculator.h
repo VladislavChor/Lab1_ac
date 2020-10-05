@@ -7,5 +7,10 @@ class Calculator
         int Add (int, int);
         int Mul (double, double);
 };
-
+//just
+//a
+//commets
+//without
+//reason
+//
 #endif//CALCULATOR_H
